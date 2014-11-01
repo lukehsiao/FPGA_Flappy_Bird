@@ -17,9 +17,9 @@ This project requires no external hardware besides a VGA
 monitor.  In order to run our project, simply download the
 BIT file to the FPGA, hook up to a monitor, and begin playing!
 The Controls are as follows:
-	- Switches control the color of the Flappy Bird
-	- Button 3 resets the game
-	- Button 0 is equivalent to the "tap"
+ - Switches control the color of the Flappy Bird
+ - Button 3 resets the game
+ - Button 0 is equivalent to the "tap"
 Your current score will be shown on the right side of the
 Seven Segment Display, and the high score will be shown
 on the left side of the Seven Segment Display.
